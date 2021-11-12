@@ -1,2 +1,2 @@
 # images
-🖼️ 🛏️ This is Channing's imagebed 
+🖼️ 🛏️ This is Channing's image hosting.
